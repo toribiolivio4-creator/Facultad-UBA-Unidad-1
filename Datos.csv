@@ -1,0 +1,8 @@
+datos = [
+    ["DNI", "Nombre", "Apellido", "planes", "Saldo", "direcciones"],
+    ["41333333", "Juan", "Pérez", "300M", 0, "Pampa 3128"],  
+    ["44567890", "Ana", "Gómez", "500M", -2000, "Cordoba 2510"],
+    ["43234567", "Sandro", "Cardozo", "500M", 3000, "Scalabrini Ortiz 2020"],
+    ["29999545", "José", "Hernandez", "300M+tv", 0, "Alvarez Jonte 1240"],
+    ["18776904", "Julio", "Cortazar", "300M", 20, "Soler 3290"]
+]
